@@ -10,6 +10,7 @@ const Navbar = () => {
       <div>
         <img src={Logo} alt='Logo Image' style={{ width: '50px' }} />
       </div>
+      {/* menu */}
       <div>
         <ul>
           <li>Home</li>
