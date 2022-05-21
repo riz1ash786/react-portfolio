@@ -11,6 +11,7 @@ import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
+import Pdf from '../assets/resume.pdf';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -102,7 +103,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://www.linkedin.com/in/riz1ash786/'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -110,7 +111,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://github.com/riz1ash786/'
             >
               Github <FaGithub size={30} />
             </a>
@@ -118,7 +119,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='mailto:riz1ash786@gmail.com/'
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -126,7 +127,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href= '{Pdf}'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
