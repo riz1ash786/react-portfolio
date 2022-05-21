@@ -8,7 +8,6 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "repository": {
@@ -20,25 +19,21 @@
   "bugs": {
     "url": "https://github.com/riz1ash786/react-portfolio/issues"
   },
-  "homepage": "https://github.com/riz1ash786/react-portfolio#readme",
+  "homepage": "https://riz1ash786.github.io/react-portfolio/",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^12.0.0",
-    "@testing-library/user-event": "^13.2.1",
     "autoprefixer": "^10.4.2",
     "gh-pages": "^4.0.0",
     "postcss": "^8.4.8",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
     "react-icons": "^4.3.1",
-    "react-scripts": "5.0.0",
+    "react-scripts": "5.0.1",
     "react-scroll": "^1.8.6",
-    "web-vitals": "^2.1.0"
+    "web-vitals": "^2.1.4"
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
