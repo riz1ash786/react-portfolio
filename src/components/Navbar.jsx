@@ -28,6 +28,7 @@ const Navbar = () => {
         <li>
           <Link to='home' smooth={true} duration={500}>
             Home
+            {/* Link for smooth desktop scrolling */}
           </Link>
         </li>
         <li>
@@ -68,6 +69,7 @@ const Navbar = () => {
         <li className='py-6 text-4xl'>
           <Link onClick={handleClick} to='home' smooth={true} duration={500}>
             Home
+            {/* Link for smooth mobile scrolling */}
           </Link>
         </li>
         <li className='py-6 text-4xl'>
@@ -127,7 +129,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href= '{Pdf} target = "_blank" rel="noreferrer'
+              href= {Pdf} without rel="noopener noreferrer" target="_blank"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
