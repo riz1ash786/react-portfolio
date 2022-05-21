@@ -1,6 +1,10 @@
 import React from 'react';
-import teamGen from '../assets/teamGen.png';
 import soloTrav from '../assets/soloTrav.gif';
+import cryptoGuide from '../assets/crypto-finder.gif';
+import noteTaker from '../assets/note-taker.gif';
+import teamGen from '../assets/teamGen.png';
+import workScheduler from '../assets/work-day-scheduler.png';
+import weatherDashboard from '../assets/weatherdashboard.png';
 
 const Work = () => {
   return (
@@ -14,7 +18,7 @@ const Work = () => {
         </div>
 
 {/* Container */}
-        <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
+        <div className='grid sm:grid-cols-1 md:grid-cols-2 gap-4'>
 
             {/* Grid Item */}
           <div
@@ -41,7 +45,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${soloTrav})` }}
+            style={{ backgroundImage: `url(${cryptoGuide})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -65,7 +69,7 @@ const Work = () => {
           </div>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${soloTrav})` }}
+            style={{ backgroundImage: `url(${noteTaker})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -112,7 +116,7 @@ const Work = () => {
           </div>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${teamGen})` }}
+            style={{ backgroundImage: `url(${workScheduler})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -135,7 +139,7 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${teamGen})` }}
+            style={{ backgroundImage: `url(${weatherDashboard})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
