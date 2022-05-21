@@ -87,22 +87,20 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 ## Screenshots
 
-![Homepage](./client/src/images/application-home.png)
+![Homepage](src/assets/home.png)
 
-![Downloaded App](./client/src/images/downloaded-web-app.png)
+![Work Samples](src/assets/work.png)
 
-![Manifest.json](./client/src/images/manifest.json-file.png)
+![Contact Form](src/assets/contact.png)
 
-![Service Worker](./client/src/images/service-worker.png)
-
-![IndexedDB Storage](./client/src/images/indexeddb-storage.png)
+![Mobile Version](src/assets/mobileversion.png)
 
 ---
 
 ## Deployed Application
 
 <div id="badges">
-  <a href="https://frozen-plateau-54707.herokuapp.com/">
+  <a href="https://riz1ash786.github.io/react-portfolio//">
     <img src="https://img.shields.io/badge/Github Pages-React Portfolio-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="Text EditorHeroku Link"/>
   </a>
 </div>
