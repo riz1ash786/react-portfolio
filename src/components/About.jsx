@@ -25,12 +25,12 @@ const About = () => {
                   and immersive web pages.</p>  
             </div>
           </div>
-          {/* <div className='max-w-[1000px] w-full grid sm:grid-cols-1 gap-8 px-4'>
+          <div className='max-w-[1000px] w-full grid sm:grid-cols-1 gap-8 px-4'>
             <div
             style={{ backgroundImage: `url(${profilePic})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div w-48 mt-8 ring-4 ring-lime-600'>
+            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 '>
             </div>
-          </div> */}
+          </div>
       </div>
     </div>
   );
