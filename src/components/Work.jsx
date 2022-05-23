@@ -75,7 +75,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Note Taker HW
+                Note Taker 
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://powerful-atoll-97832.herokuapp.com/notes/'>
