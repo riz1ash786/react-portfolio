@@ -23,12 +23,12 @@ const Work = () => {
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${soloTrav})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Solo-Traveller
+                Solo-Traveller <br /> Full-Stack
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://tranquil-garden-06194.herokuapp.com/'>
@@ -46,12 +46,12 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${cryptoGuide})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Cryptocurrency Guide
+                Cryptocurrency Guide <br /> Full-Stack
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://josephcurtis1999.github.io/CryptocurrencyFinder/'>
@@ -70,12 +70,12 @@ const Work = () => {
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${noteTaker})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Note Taker 
+                Note Taker <br /> Back-end
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://powerful-atoll-97832.herokuapp.com/notes/'>
@@ -93,12 +93,12 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${teamGen})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Team Profile Generator
+                Team Profile Generator<br /> Back-end
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://drive.google.com/file/d/1CACjaI0ldtUd12tCyW55wnLUxb6ftt4i/view?usp=sharing/'>
@@ -117,12 +117,12 @@ const Work = () => {
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${workScheduler})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Work Day Scheduler
+                Work Day Scheduler <br /> Front-end
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://riz1ash786.github.io/work-day-scheduler/'>
@@ -140,12 +140,12 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${weatherDashboard})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Weather Dashboard
+                Weather Dashboard <br /> Front-end
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://riz1ash786.github.io/weather-dashboard/'>
