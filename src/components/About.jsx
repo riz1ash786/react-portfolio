@@ -28,7 +28,7 @@ const About = () => {
           <div className='max-w-[1000px] w-full grid sm:grid-cols-1 gap-8 px-4'>
             <div
             style={{ backgroundImage: `url(${profilePic})` }}
-            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 '>
+            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 hover:scale-110 duration-500'>
             </div>
           </div>
       </div>
