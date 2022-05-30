@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.58256fb3.css",
-    "main.js": "/react-portfolio/static/js/main.2f303442.js",
+    "main.js": "/react-portfolio/static/js/main.14e221e7.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/soloTrav.gif": "/react-portfolio/static/media/soloTrav.73b6b9865a0c868f701e.gif",
     "static/media/crypto-finder.gif": "/react-portfolio/static/media/crypto-finder.44ea795d9e3551b0128e.gif",
@@ -9,7 +9,6 @@
     "static/media/note-taker.gif": "/react-portfolio/static/media/note-taker.a7dab5ffeb0db7e2762c.gif",
     "static/media/weatherdashboard.png": "/react-portfolio/static/media/weatherdashboard.59cc2d9d916e61177429.png",
     "static/media/teamGen.png": "/react-portfolio/static/media/teamGen.2062a47469104bf2e466.png",
-    "static/media/Rizwan Ashraf - Tech CV.pdf": "/react-portfolio/static/media/Rizwan Ashraf - Tech CV.5c0958982b6c56e9e164.pdf",
     "static/media/work-day-scheduler.png": "/react-portfolio/static/media/work-day-scheduler.2afd1aa1725584555915.png",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/react-portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
@@ -23,11 +22,11 @@
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
     "main.58256fb3.css.map": "/react-portfolio/static/css/main.58256fb3.css.map",
-    "main.2f303442.js.map": "/react-portfolio/static/js/main.2f303442.js.map",
+    "main.14e221e7.js.map": "/react-portfolio/static/js/main.14e221e7.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58256fb3.css",
-    "static/js/main.2f303442.js"
+    "static/js/main.14e221e7.js"
   ]
 }
