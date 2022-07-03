@@ -1,9 +1,13 @@
 import React from 'react';
 import profilePic from '../assets/profilePic.png';
+import uobLogo from '../assets/uobLogo.png';
+import {
+  FaSchool,
+} from 'react-icons/fa';
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
+    <div name='about' className='w-full h-screen bg-gradient-to-r from-[#071c05] to-[#6b8869] text-gray-300'>
       <div className='flex flex-col justify-center items-center w-full h-full'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           {/* move text right on expand over small */}
@@ -25,10 +29,38 @@ const About = () => {
                   and immersive web pages.</p>  
             </div>
           </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-1 gap-8 px-4'>
+          <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
             <div
             style={{ backgroundImage: `url(${profilePic})` }}
-            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 hover:scale-110 duration-500'>
+            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
+            </div>
+            <div
+            style={{ backgroundImage: `url(${uobLogo})` }}
+            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
+            </div>
+            <div
+            style={{ backgroundImage: `url(${profilePic})` }}
+            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
+            </div>
+          </div>
+          <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
+            <div className='sm:text-center'>
+              <p>I have  always  had an interest in technology development which consequently 
+                  has led me to pursue a career as a Full-Stack Developer. I am keen to explore 
+                  how websites work and the intricate details of creating interactive 
+                  and immersive web pages.</p>
+            </div>
+            <div className='sm:text-center'>
+              <p>I have  always  had an interest in technology development which consequently 
+                  has led me to pursue a career as a Full-Stack Developer. I am keen to explore 
+                  how websites work and the intricate details of creating interactive 
+                  and immersive web pages.</p>
+            </div>
+            <div className='sm:text-center'>
+              <p>I have  always  had an interest in technology development which consequently 
+                  has led me to pursue a career as a Full-Stack Developer. I am keen to explore 
+                  how websites work and the intricate details of creating interactive 
+                  and immersive web pages.</p>
             </div>
           </div>
       </div>
