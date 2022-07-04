@@ -1,9 +1,7 @@
 import React from 'react';
 import profilePic from '../assets/profilePic.png';
-import uobLogo from '../assets/uobLogo.png';
-import {
-  FaSchool,
-} from 'react-icons/fa';
+import education from '../assets/education.png';
+import goals from '../assets/goals.png';
 
 const About = () => {
   return (
@@ -35,11 +33,11 @@ const About = () => {
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
             <div
-            style={{ backgroundImage: `url(${uobLogo})` }}
+            style={{ backgroundImage: `url(${education})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
             <div
-            style={{ backgroundImage: `url(${profilePic})` }}
+            style={{ backgroundImage: `url(${goals})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
           </div>
