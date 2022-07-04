@@ -5,7 +5,7 @@ import goals from '../assets/goals.png';
 
 const About = () => {
   return (
-    <div name='about' className='w-full h-screen bg-gradient-to-r from-[#071c05] to-[#6b8869] text-gray-300'>
+    <div name='about' className='w-full h-full bg-gradient-to-r from-[#071c05] to-[#6b8869] text-gray-300'>
       <div className='flex flex-col justify-center items-center w-full h-full'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           {/* move text right on expand over small */}
