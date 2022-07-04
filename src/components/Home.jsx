@@ -7,7 +7,7 @@ const Home = () => {
     <div name='home' className='w-full h-screen bg-gradient-to-r from-[#071c05] to-[#6b8869]'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-        <p className='text-lime-600'>Hi, my name is</p>
+        <p className='text-[#dbb434]'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
           Rizwan Ashraf
         </h1>
@@ -20,7 +20,7 @@ const Home = () => {
           building responsive full-stack web applications.
         </p>
         <div>
-          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-lime-600 hover:border-lime-600'>
+          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#dbb434] hover:border-[#dbb434]'>
           <Link to='work' smooth={true} duration={500}>View Work </Link>
             {/* rotate arrow on hover */}
             <span className='group-hover:rotate-90 duration-300'>

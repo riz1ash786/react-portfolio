@@ -12,7 +12,7 @@ const About = () => {
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           {/* move text right on expand over small */}
           <div className='sm:text-right pb-8 pl-4'>
-            <p className='text-4xl font-bold inline border-b-4 border-lime-600'>
+            <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>
               About
             </p>
           </div>

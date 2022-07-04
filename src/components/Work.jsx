@@ -11,7 +11,7 @@ const Work = () => {
     <div name='work' className='w-full md:h-screen text-gray-300 bg-gradient-to-r from-[#071c05] to-[#6b8869]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-          <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-lime-600'>
+          <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#dbb434]'>
             Work
           </p>
           <p className='py-6'>Here are some examples of my recent work</p>
@@ -32,12 +32,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://tranquil-garden-06194.herokuapp.com/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/riz1ash786/solo-traveller/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Code
                   </button>
                 </a>
@@ -55,12 +55,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://josephcurtis1999.github.io/CryptocurrencyFinder/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/riz1ash786/CryptocurrencyFinder/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Code
                   </button>
                 </a>
@@ -79,12 +79,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://powerful-atoll-97832.herokuapp.com/notes/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/riz1ash786/note-taker/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Code
                   </button>
                 </a>
@@ -102,12 +102,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://drive.google.com/file/d/1CACjaI0ldtUd12tCyW55wnLUxb6ftt4i/view?usp=sharing/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/riz1ash786/team-profile-generator'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Code
                   </button>
                 </a>
@@ -126,12 +126,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://riz1ash786.github.io/work-day-scheduler/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/riz1ash786/week5-work-day-scheduler'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Code
                   </button>
                 </a>
@@ -149,12 +149,12 @@ const Work = () => {
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://riz1ash786.github.io/weather-dashboard/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Demo
                   </button>
                 </a>
                 <a href='https://github.com/riz1ash786/weather-dashboard/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-lime-600'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-[#dbb434]'>
                     Code
                   </button>
                 </a>
