@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.20abaee7.css",
-    "main.js": "/react-portfolio/static/js/main.ca791879.js",
+    "main.js": "/react-portfolio/static/js/main.edf2691d.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/soloTrav.gif": "/react-portfolio/static/media/soloTrav.73b6b9865a0c868f701e.gif",
     "static/media/crypto-finder.gif": "/react-portfolio/static/media/crypto-finder.44ea795d9e3551b0128e.gif",
@@ -24,11 +24,11 @@
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
     "main.20abaee7.css.map": "/react-portfolio/static/css/main.20abaee7.css.map",
-    "main.ca791879.js.map": "/react-portfolio/static/js/main.ca791879.js.map",
+    "main.edf2691d.js.map": "/react-portfolio/static/js/main.edf2691d.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20abaee7.css",
-    "static/js/main.ca791879.js"
+    "static/js/main.edf2691d.js"
   ]
 }
