@@ -18,7 +18,7 @@ const Projects = () => {
         </div>
 
 {/* Container */}
-        <div className='grid sm:grid-cols-1 md:grid-cols-2 gap-4'>
+        <div className='grid sm:grid-cols-1 md:grid-cols-3 gap-4'>
 
             {/* Grid Item */}
           <div
