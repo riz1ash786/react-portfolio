@@ -1,32 +1,34 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.58256fb3.css",
-    "main.js": "/react-portfolio/static/js/main.14e221e7.js",
+    "main.css": "/react-portfolio/static/css/main.20abaee7.css",
+    "main.js": "/react-portfolio/static/js/main.75fd297c.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/soloTrav.gif": "/react-portfolio/static/media/soloTrav.73b6b9865a0c868f701e.gif",
     "static/media/crypto-finder.gif": "/react-portfolio/static/media/crypto-finder.44ea795d9e3551b0128e.gif",
     "static/media/profilePic.png": "/react-portfolio/static/media/profilePic.dfc32ff67e2c0470104b.png",
     "static/media/note-taker.gif": "/react-portfolio/static/media/note-taker.a7dab5ffeb0db7e2762c.gif",
+    "static/media/goals.png": "/react-portfolio/static/media/goals.926594a80cf8861ed953.png",
+    "static/media/education.png": "/react-portfolio/static/media/education.85f58aa75602262695a8.png",
     "static/media/weatherdashboard.png": "/react-portfolio/static/media/weatherdashboard.59cc2d9d916e61177429.png",
+    "static/media/graphql.png": "/react-portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/teamGen.png": "/react-portfolio/static/media/teamGen.2062a47469104bf2e466.png",
     "static/media/work-day-scheduler.png": "/react-portfolio/static/media/work-day-scheduler.2afd1aa1725584555915.png",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/aws.png": "/react-portfolio/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/logo.png": "/react-portfolio/static/media/logo.17d7592d6fed6fd50c34.png",
     "static/media/mongo.png": "/react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.35bf5ed81644278c09a8.png",
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
-    "main.58256fb3.css.map": "/react-portfolio/static/css/main.58256fb3.css.map",
-    "main.14e221e7.js.map": "/react-portfolio/static/js/main.14e221e7.js.map",
+    "main.20abaee7.css.map": "/react-portfolio/static/css/main.20abaee7.css.map",
+    "main.75fd297c.js.map": "/react-portfolio/static/js/main.75fd297c.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58256fb3.css",
-    "static/js/main.14e221e7.js"
+    "static/css/main.20abaee7.css",
+    "static/js/main.75fd297c.js"
   ]
 }
