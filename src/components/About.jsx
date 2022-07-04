@@ -22,7 +22,7 @@ const About = () => {
             </div>
             <div>
               <p>I have  always  had an interest in technology development which consequently 
-                  has led me to pursue a career as a Full-Stack Developer. I am keen to explore 
+                  has led me to pursue a career as a Full-Stack Software Developer. I am keen to explore 
                   how websites work and the intricate details of creating interactive 
                   and immersive web pages.</p>  
             </div>
@@ -43,17 +43,19 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
             <div className='sm:text-center'>
-              <p>I am graduate of the University of Birmingham Coding bootcamp and I am now seeking employment as a Software Developer .</p>
+              <p>I am a graduate of the University of Birmingham Coding bootcamp gaining an A+ certification. 
+                I have learned how build a website from the ground up, utilising a multitude of technical tools 
+                and languages to write testable, syntax-efficient code.</p>
             </div>
             <div className='sm:text-center'>
-              <p>University of Birmingham <br /> Coding Bootcamp Graduate 21-22 <br /> Grade Obtained A+
+              <p>University of Birmingham <br /> Coding Bootcamp Graduate 21-22 <br /> Grade A+
                 <br />
                 <br />
-                Coventry University <br /> B.A. (Hons) Business Management<br /> 2:1 Obtained
+                Coventry University <br /> B.A. (Hons) Business Management<br /> Grade 2:1
               </p>
             </div>
             <div className='sm:text-center'>
-              <p>I am actively seeking and keen to start a new and exciting role within the IT industry</p>
+              <p>I am actively seeking and keen to start a new and exciting role utilising the technical skills that I have learned. My goal is to work with an organisation where I can futher build and expand upon my technical skillset.  </p>
             </div>
           </div>
       </div>

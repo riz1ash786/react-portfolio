@@ -26,32 +26,32 @@ const Skills = () => {
                   <p className='my-4'>HTML</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto mt-2' src={CSS} alt="HTML icon" />
+                  <img className='w-20 mx-auto mt-2' src={CSS} alt="CSS icon" />
                   <p className='my-4'>CSS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto mt-2' src={JavaScript} alt="HTML icon" />
-                  <p className='my-4'>JAVASCRIPT</p>
+                  <img className='w-20 mx-auto mt-2' src={JavaScript} alt="JavaScript icon" />
+                  <p className='my-4'>JavaScript</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto mt-2' src={ReactImg} alt="HTML icon" />
-                  <p className='my-4'>REACT</p>
+                  <img className='w-20 mx-auto mt-2' src={ReactImg} alt="React icon" />
+                  <p className='my-4'>React</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto mt-2' src={GitHub} alt="HTML icon" />
-                  <p className='my-4'>GITHUB</p>
+                  <img className='w-20 mx-auto mt-2' src={GitHub} alt="GitHub icon" />
+                  <p className='my-4'>GitHub</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto mt-2' src={Node} alt="HTML icon" />
-                  <p className='my-4'>NODE JS</p>
+                  <img className='w-20 mx-auto mt-2' src={Node} alt="NodeJS icon" />
+                  <p className='my-4'>Node JS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto mt-2' src={Mongo} alt="HTML icon" />
-                  <p className='my-4'>MONGO DB</p>
+                  <img className='w-20 mx-auto mt-2' src={Mongo} alt="Mongo DB icon" />
+                  <p className='my-4'>Mongo DB</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto mt-2' src={Graphql} alt="HTML icon" />
-                  <p className='my-4'>GRAPHQL</p>
+                  <img className='w-20 mx-auto mt-2' src={Graphql} alt="GraphQL icon" />
+                  <p className='my-4'>GraphQL</p>
               </div>
           </div>
       </div>
