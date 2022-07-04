@@ -21,10 +21,10 @@ const About = () => {
               <p>Hi. I'm Rizwan, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I have  always  had an interest in technology development which consequently 
-                  has led me to pursue a career as a Full-Stack Software Developer. I am keen to explore 
+              <p>I have always  had an interest in technology development which consequently 
+                  has led me to pursue a career as a Full-Stack Software Developer. I am interested in exploring 
                   how websites work and the intricate details of creating interactive 
-                  and immersive web pages.</p>  
+                  and immersive web pages.</p>
             </div>
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
@@ -43,8 +43,8 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
             <div className='sm:text-center'>
-              <p>I am a graduate of the University of Birmingham Coding bootcamp gaining an A+ certification. 
-                I have learned how build a website from the ground up, utilising a multitude of technical tools 
+              <p>I am a graduate of the University of Birmingham Coding bootcamp. 
+                I have the skills to build a website from the ground up, utilising a multitude of technical tools 
                 and languages to write testable, syntax-efficient code.</p>
             </div>
             <div className='sm:text-center'>
@@ -55,7 +55,7 @@ const About = () => {
               </p>
             </div>
             <div className='sm:text-center'>
-              <p>I am actively seeking and keen to start a new and exciting role utilising the technical skills that I have learned. My goal is to work with an organisation where I can futher build and expand upon my technical skillset.  </p>
+              <p>I am ambitious, creative and hardworking and keen to demonstrate my skills in a new and exciting role. My goal is to work with an organisation where I can further build and expand upon my technical skillset. </p>
             </div>
           </div>
       </div>
