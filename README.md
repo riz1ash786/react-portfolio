@@ -89,7 +89,7 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 ![Homepage](src/assets/home.png)
 
-![Work Samples](src/assets/work.png)
+![Project Samples](src/assets/projects.png)
 
 ![Contact Form](src/assets/contact.png)
 
