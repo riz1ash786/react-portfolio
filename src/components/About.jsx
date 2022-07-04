@@ -51,7 +51,8 @@ const About = () => {
             style={{ backgroundImage: `url(${goals})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='text-center'>I am ambitious, creative and hardworking and keen to demonstrate my skills in a new and exciting role. My goal is to work with an organisation where I can further build and expand upon my technical skillset.</p>
+            <p className='text-center'>I am ambitious, creative, hardworking and keen to demonstrate my skills in a new and exciting role.
+             My goal is to work with an organisation where I can further build and expand upon my technical skillset.</p>
             </div>
       </div>
       </div>
