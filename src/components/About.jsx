@@ -32,7 +32,7 @@ const About = () => {
             style={{ backgroundImage: `url(${profilePic})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='text-center'>I am a graduate of the University of Birmingham Coding bootcamp. 
+            <p className='text-center'>I am a graduate of the University of Birmingham Coding Bootcamp. 
                 I have the skills to build a website from the ground up, utilising a multitude of technical tools 
                 and languages to write testable, syntax-efficient code.</p>
             </div>
@@ -41,7 +41,7 @@ const About = () => {
             style={{ backgroundImage: `url(${education})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-              <p className='text-center'>University of Birmingham <br /> Coding Bootcamp Graduate 21-22 <br /> Grade A+
+              <p className='text-center'>University of Birmingham <br /> Coding Bootcamp Graduate <br /> Grade A+
                 <br />
                 <br />
                 Coventry University <br /> B.A. (Hons) Business Management<br /> Grade 2:1</p>
@@ -54,7 +54,7 @@ const About = () => {
             <p className='text-center'>I am ambitious, creative, hardworking and keen to demonstrate my skills in a new and exciting role.
              My goal is to work within an organisation where I can further build and expand upon my technical skill set.</p>
             </div>
-      </div>
+          </div>
       </div>
     </div>
   );
