@@ -43,22 +43,17 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
             <div className='sm:text-center'>
-              <p>I have  always  had an interest in technology development which consequently 
-                  has led me to pursue a career as a Full-Stack Developer. I am keen to explore 
-                  how websites work and the intricate details of creating interactive 
-                  and immersive web pages.</p>
+              <p>I am graduate of the University of Birmingham Coding bootcamp and I am now seeking employment as a Software Developer .</p>
             </div>
             <div className='sm:text-center'>
-              <p>I have  always  had an interest in technology development which consequently 
-                  has led me to pursue a career as a Full-Stack Developer. I am keen to explore 
-                  how websites work and the intricate details of creating interactive 
-                  and immersive web pages.</p>
+              <p>University of Birmingham <br /> Coding Bootcamp Graduate 21-22 <br /> Grade Obtained A+
+                <br />
+                <br />
+                Coventry University <br /> B.A. (Hons) Business Management<br /> 2:1 Obtained
+              </p>
             </div>
             <div className='sm:text-center'>
-              <p>I have  always  had an interest in technology development which consequently 
-                  has led me to pursue a career as a Full-Stack Developer. I am keen to explore 
-                  how websites work and the intricate details of creating interactive 
-                  and immersive web pages.</p>
+              <p>I am actively seeking and keen to start a new and exciting role within the IT industry</p>
             </div>
           </div>
       </div>
