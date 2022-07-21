@@ -101,7 +101,7 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 <div id="badges">
   <a href="https://riz1ash786.github.io/react-portfolio//">
-    <img src="https://img.shields.io/badge/Github Pages-React Portfolio-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="Text EditorHeroku Link"/>
+    <img src="https://img.shields.io/badge/Github Pages-React Portfolio-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="GitHub Pages Link"/>
   </a>
 </div>
 
@@ -111,7 +111,7 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 <div id="badges">
   <a href="https://github.com/riz1ash786/react-portfolio">
-    <img src="https://img.shields.io/badge/Repository-React Portfolio-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Text Editor Repository"/>
+    <img src="https://img.shields.io/badge/Repository-React Portfolio-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Repository Link"/>
   </a>
 </div>
 
