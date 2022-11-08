@@ -21,7 +21,7 @@ const About = () => {
             </div>
             <div>
               <p>I have always  had an interest in technology development which consequently 
-                  has led me to pursue a career as a Full-Stack Software Developer. I am interested in exploring 
+                  has led me to pursue a career as a Full Stack Software Developer. I am interested in exploring 
                   how websites work and the intricate details of creating interactive 
                   and immersive web pages.</p>
             </div>
